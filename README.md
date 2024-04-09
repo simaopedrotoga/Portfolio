@@ -1,3 +1,3 @@
 # Portfolio
-Mostly works related with Data
+Mostly works related with Analytics & AI
 
